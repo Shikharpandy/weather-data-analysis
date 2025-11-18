@@ -20,4 +20,5 @@ This project analyzes and visualizes weather patterns using Python libraries —
 1. Clone this repository  
 2. Open `weather_analysis.ipynb` in Jupyter Notebook  
 3. Run all cells
+<img width="1115" height="630" alt="image" src="https://github.com/user-attachments/assets/ba41dcb1-1cb8-47cb-949e-f9d901e49fb0" />
 
